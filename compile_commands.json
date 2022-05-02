@@ -1,0 +1,32 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-O2",
+      "-g",
+      "-o",
+      "HelloTriangle",
+      "main.cpp"
+    ],
+    "directory": "/home/geochip/dev/vulkan/HelloTriangle",
+    "file": "/home/geochip/dev/vulkan/HelloTriangle/main.cpp",
+    "output": "/home/geochip/dev/vulkan/HelloTriangle/HelloTriangle"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++20",
+      "-O2",
+      "-g",
+      "-o",
+      "HelloTriangle",
+      "HelloTriangleApplication.cpp"
+    ],
+    "directory": "/home/geochip/dev/vulkan/HelloTriangle",
+    "file": "/home/geochip/dev/vulkan/HelloTriangle/HelloTriangleApplication.cpp",
+    "output": "/home/geochip/dev/vulkan/HelloTriangle/HelloTriangle"
+  }
+]
